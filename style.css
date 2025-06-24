@@ -5,7 +5,7 @@ html, body {
   height: 100%;
   width: 100%;
   touch-action: none;
-  background: #a3d8f4; /* cielo celeste claro */
+  background: linear-gradient(to top, #85c9e8, #ccebf9); /* degradado celeste más oscuro abajo */
 }
 
 canvas {
